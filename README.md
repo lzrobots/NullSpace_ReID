@@ -8,7 +8,7 @@ Demo code for CVPR 2016 paper:  [Learning a Discriminative Null Space for Person
 # Data
 Download data from [here](http://www.robots.ox.ac.uk/~lz/DNS_cvpr2016/data.zip) and unzip it `unzip data.zip`.
   
-It contains the [LOMO feature](http://www.cbsr.ia.ac.cn/users/scliao/projects/lomo_xqda/index.html) [1] and [kCCA feature](https://github.com/glisanti/KCCAReId) [2] for VIPeR datasets.
+It contains the [LOMO feature](http://www.cbsr.ia.ac.cn/users/scliao/projects/lomo_xqda/index.html) [1] and [kCCA feature](https://github.com/glisanti/KCCAReId) [2] for VIPeR dataset.
 
 # Run
 run `demo.m` in Matlab.
