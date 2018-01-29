@@ -1,6 +1,8 @@
 # Discriminative Null Space for Person Re-ID
 Demo code for CVPR 2016 paper:  [Learning a Discriminative Null Space for Person Re-identification](http://openaccess.thecvf.com/content_cvpr_2016/papers/Zhang_Learning_a_Discriminative_CVPR_2016_paper.pdf)
 
+[Li Zhang](http://www.robots.ox.ac.uk/~lz/)
+
 <img src='figure/nullspace.jpg' width='500'>
 
 # Data
