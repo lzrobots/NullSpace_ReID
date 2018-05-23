@@ -78,7 +78,7 @@ function centeredKernelMatrix = centerKernelMatrix(kernelMatrix)
   for k=1:n
 
     centeredKernelMatrix(k,:) = centeredKernelMatrix(k,:) - columnMeans;
-    centeredKernelMatrix(:,k) = centeredKernelMatrix(:,k) - columnMeans';
+    centeredKernelMatrix(:,k) = centeredKernelMatrix(:,k) - columnMeans;
 
   end
 
